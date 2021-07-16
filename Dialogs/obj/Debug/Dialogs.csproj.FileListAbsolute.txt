@@ -1,0 +1,9 @@
+E:\code\CsExplorer\Dialogs\bin\Debug\Dialogs.dll
+E:\code\CsExplorer\Dialogs\bin\Debug\Dialogs.pdb
+E:\code\CsExplorer\Dialogs\obj\Debug\Dialogs.csprojAssemblyReference.cache
+E:\code\CsExplorer\Dialogs\obj\Debug\Dialogs.DeleteDialog.resources
+E:\code\CsExplorer\Dialogs\obj\Debug\Dialogs.Properties.Resource1.resources
+E:\code\CsExplorer\Dialogs\obj\Debug\Dialogs.csproj.GenerateResource.cache
+E:\code\CsExplorer\Dialogs\obj\Debug\Dialogs.csproj.CoreCompileInputs.cache
+E:\code\CsExplorer\Dialogs\obj\Debug\Dialogs.dll
+E:\code\CsExplorer\Dialogs\obj\Debug\Dialogs.pdb

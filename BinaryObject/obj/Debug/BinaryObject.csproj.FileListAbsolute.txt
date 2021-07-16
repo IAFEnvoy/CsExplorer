@@ -1,0 +1,6 @@
+E:\code\CsExplorer\BinaryObject\bin\Debug\BinaryObject.dll
+E:\code\CsExplorer\BinaryObject\bin\Debug\BinaryObject.pdb
+E:\code\CsExplorer\BinaryObject\obj\Debug\BinaryObject.csprojAssemblyReference.cache
+E:\code\CsExplorer\BinaryObject\obj\Debug\BinaryObject.csproj.CoreCompileInputs.cache
+E:\code\CsExplorer\BinaryObject\obj\Debug\BinaryObject.dll
+E:\code\CsExplorer\BinaryObject\obj\Debug\BinaryObject.pdb
